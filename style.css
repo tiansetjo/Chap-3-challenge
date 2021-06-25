@@ -1,0 +1,247 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+
+#sesi-1{
+
+    width: 100%;
+    height: 100vh;
+    background-color: #dedede;
+    background-image: url("image/main-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+}
+
+.navbar .logo{
+    position: absolute;
+    left: 3%;
+    top :2%;
+    padding: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+.menu{
+    position: absolute;
+    top: 2%;
+    left: 13%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
+.user-action{
+    position : absolute;
+    right: 10%;
+    top: 3%;
+    padding: 5px;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+.banner .wrapper .Play{
+    font-size: 80px;
+    display: flex;
+    position: center;
+    color: white;
+    font-family: arial;
+
+}
+
+.banner .wrapper .Experience{
+    font-size: 20px;
+    display: flex;
+    position: center;
+    justify-content: center;
+    color: white;
+    font-family: Arial;
+}
+
+.banner .wrapper .Now{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    background-color: yellow;
+}
+
+.banner .wrapper .Story{
+    color: white;
+    position: absolute;
+    left: 50%;
+    top : 90%;
+    font-family: Arial;
+}
+
+.banner .wrapper .v{
+    color: white;
+    position: absolute;
+    left: 53%;
+    top : 93%;
+    font-family: Arial;
+}
+#sesi-2{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/the-games-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-2 .ask1{
+    color: white;
+    position: absolute;
+    left : 10%;
+    top: 20%;
+}
+.page-2 .ask2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    size: 300px;
+    position: absolute;
+    left : 10%;
+    top: 22%;
+    font-size: 40px;
+}
+
+.pict-2 img{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    left: 35%;
+    top: 22%;
+}
+
+#sesi-3{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/features.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-3 .teks1{
+    color: white;
+    position: absolute;
+    top: 15%;
+    left: 65%;
+}
+.page-3 .teks2{
+    color: white;
+    position: absolute;
+    left: 65%;
+    top: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 56px;
+}
+
+.page-3 .teks3{
+    color: #FFB548;
+    position: absolute;
+    left: 68%;
+    top: 45%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-3 .teks4{
+    color: white;
+    position: absolute;
+    left: 68%;
+    top: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-3 .teks5{
+    color: #ffb548;
+    position: absolute;
+    left: 68%;
+    top: 65%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-3 .teks6{
+    color: #FFB548;
+    position: absolute;
+    left: 68%;
+    top: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sesi-4{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/requirements.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-4 .system{
+    color : white;
+    position: absolute;
+    top : 10%;
+    left : 7%;
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+.page-4 .req{
+    color : white;
+    position: absolute;
+    top : 10%;
+    left : 7%;
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.page-4 .can{
+    color : white;
+    position: absolute;
+    top : 10%;
+    left : 45%;
+}
+
+#sesi-5{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/top-score-bg.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sesi-6{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/the-games-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
